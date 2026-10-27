@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-### `HARDWARE × SOFTWARE × INTELLIGENCE`
+### `Hardware intelligence `
 
 *I build at the intersection of the physical world and the digital mind.*
 
