@@ -225,19 +225,25 @@ The goal: connect perception, computation, and action.
 
 ---
 
+
 ## `05 // GITHUB TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fikruyenialem&show_icons=true&theme=transparent&hide_border=true&title_color=00F5D4&icon_color=7B2CBF&text_color=C9D1D9&include_all_commits=true" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikruyenialem&layout=compact&theme=transparent&hide_border=true&title_color=00F5D4&text_color=C9D1D9&langs_count=8" width="49%" alt="Most-used languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=fikruyenialem&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=00F5D4&icon_color=7B2CBF&text_color=C9D1D9" width="49%" alt="GitHub activity statistics"/>
 
-<img src="https://streak-stats.demolab.com?user=fikruyenialem&theme=transparent&hide_border=true&ring=00F5D4&fire=7B2CBF&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=8B949E" width="85%" alt="Contribution streak"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fikruyenialem&layout=compact&theme=transparent&hide_border=true&title_color=00F5D4&text_color=C9D1D9&langs_count=6" width="49%" alt="Most-used programming languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=fikruyenialem&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub achievements"/>
+<img src="https://streak-stats.demolab.com?user=fikruyenialem&theme=transparent&hide_border=true&ring=00F5D4&fire=7B2CBF&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=8B949E" width="85%" alt="GitHub contribution streak"/>
+
+<br/>
+
+[![View my repositories](https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-00F5D4?style=for-the-badge&labelColor=030712)](https://github.com/fikruyenialem?tab=repositories)
 
 </div>
 
-*Statistics are supplied by external services and may take time to load. Language charts reflect repository contents, not necessarily overall proficiency.*
+> Telemetry note: These cards show estimates based on available GitHub data. Language usage is not a measure of programming proficiency. External services may occasionally be unavailable.
+
 
 ---
 
