@@ -15,7 +15,7 @@
 
 ### `Hardware intelligence `
 
-*I build at the intersection of the physical world and the digital mind.*
+
 
 [ EXPLORE THE LAB ](https://github.com/fikruyenialem?tab=repositories)
 
