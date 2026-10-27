@@ -229,9 +229,9 @@ The goal: connect perception, computation, and action.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:7B2CBF,100:00F5D4&height=150&section=footer&animation=twinkling" width="100%" alt="End of transmission"/>
 
 <em><sub>The future is not just software.<br/>
-It is software that can touch the world.</sub></em>
+It is software that can touch the world©.</sub></em>
 
 
-<sub>Built with curiosity. Improved through experiments. Never finished.</sub>
+<sub> Built with curiosity. Improved through experiments. Never finished.</sub>
 
 </div>
