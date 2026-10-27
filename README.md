@@ -223,7 +223,6 @@ CURRENT RESEARCH DIRECTION
 The goal: connect perception, computation, and action.
 ```
 
-## `05 END OF TRANSMISSION`
 
 <div align="center">
 
