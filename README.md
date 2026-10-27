@@ -1,81 +1,112 @@
 
-<!--
-  FIKRU'S DIGITAL LAB
-  Profile README | Embedded AI × Electronics × Software
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:00F5D4,100:7B2CBF&height=220&section=header&text=FIKRU%20YENIALEM&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=HARDWARE%20%E2%9C%95%20SOFTWARE%20%E2%9C%95%20INTELLIGENCE&descSize=13&descAlignY=55" width="100%" alt="Fikru's digital lab banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:00F5D4,70:7B2CBF,100:030712&height=240&section=header&text=FIKRU%20YENIALEM&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=ENGINEERING%20THE%20UNSEEN&descSize=17&descAlignY=57" width="100%" alt="Fikru's digital lab"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Initializing+intelligence...;Connecting+circuits+to+code...;Teaching+machines+to+see...;Building+what+doesn't+exist+yet.;Welcome+to+my+digital+lab." alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=500&color=00F5D4&center=true&vCenter=true&width=650&lines=BOOTING+NEURAL+INTERFACE...;HARDWARE+MEETS+INTELLIGENCE.;CIRCUITS+ARE+MY+CANVAS.;CODE+IS+MY+INSTRUMENT.;REALITY+IS+THE+TEST+ENVIRONMENT.;SYSTEM+ONLINE.+WELCOME+TO+THE+LAB." alt="Animated terminal introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/DOMAIN-EMBEDDED_AI-00F5D4?style=for-the-badge&labelColor=050816" alt="Embedded AI"/>
-<img src="https://img.shields.io/badge/MODE-ENGINEERING-7B2CBF?style=for-the-badge&labelColor=050816" alt="Engineering"/>
-<img src="https://img.shields.io/badge/STATUS-EXPERIMENTING-FFB703?style=for-the-badge&labelColor=050816" alt="Experimenting"/>
+<img src="https://img.shields.io/badge/IDENTITY-ENGINEER-00F5D4?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SPECIALTY-EMBEDDED_AI-7B2CBF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-FFB703?style=for-the-badge&labelColor=030712"/>
 
 <br/><br/>
 
-**I don't just want to write code. I want to make code interact with reality.**
+### `HARDWARE × SOFTWARE × INTELLIGENCE`
 
-*Electrical engineering × intelligent devices × machine learning*
+*I build at the intersection of the physical world and the digital mind.*
+
+[ EXPLORE THE LAB ](https://github.com/fikruyenialem?tab=repositories)
 
 </div>
 
 ---
 
-## `01 // WHO AM I?`
-
 ```text
-NAME       : Fikru Yenialem Beza
-BACKGROUND : Electrical Engineering
-EXPLORING  : Embedded AI & intelligent electronic devices
-BUILDING   : Systems where hardware meets intelligence
-MINDSET    : Understand → Experiment → Build → Improve
+╔══════════════════════════════════════════════════╗
+║              SYSTEM BOOT SEQUENCE               ║
+╠══════════════════════════════════════════════════╣
+║  ENGINEER  : Fikru Yenialem Beza                ║
+║  CORE      : Electrical Engineering             ║
+║  INTERESTS : Embedded AI / Electronics / ML     ║
+║  INTERFACE : Python / C++ / MATLAB              ║
+║  DIRECTIVE : Turn ideas into intelligent things ║
+║  STATUS    : ALWAYS EXPERIMENTING               ║
+╚══════════════════════════════════════════════════╝
 ```
 
-I'm an engineering student fascinated by the space between physical electronics and intelligent software.
+## `01 // THE HUMAN BEHIND THE MACHINE`
 
-I explore how machines can **sense, process, learn, and act** — from computer vision and access-control systems to circuits, microcontrollers, and signal processing.
+I am an engineering student exploring how intelligence can move beyond a computer screen and interact with the physical world.
 
-My goal is to develop intelligent electronic devices that solve real problems, not just demonstrate technical concepts.
+My interests lie in **Embedded AI, intelligent electronic devices, computer vision, electronics, and hardware-software integration**.
 
-> The interesting part isn't that a machine can think.
-> It's what happens when intelligence can interact with the physical world.
+I enjoy understanding how things work, experimenting with new ideas, and building systems that connect code with real-world behavior.
+
+I don't want to study technology only as theory.
+
+**I want to understand it, take it apart, rebuild it, and make it do something unexpected.**
+
+<details>
+<summary>🧬 DECODE MY ENGINEERING PHILOSOPHY</summary>
+
+```python
+class Engineer:
+    def __init__(self):
+        self.curiosity = float("inf")
+        self.failures = []
+        self.experiments = 0
+
+    def investigate(self, problem):
+        self.experiments += 1
+        return self.learn_from(problem)
+
+    def learn_from(self, result):
+        return "Improve. Rebuild. Try again."
+
+    def mission(self):
+        return "Make intelligence interact with reality."
+
+
+fikru = Engineer()
+```
+
+The code is a playful representation of my mindset, not a working project or a claim of infinite ability.
+
+</details>
 
 ---
 
-## `02 // THE TECHNOLOGY MATRIX`
+## `02 // THE TECHNOLOGY ORGANISM`
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+**01 — PROGRAMMING LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab&theme=dark" alt="Python, C++, MATLAB"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab&theme=dark" alt="Python, C++, and MATLAB"/>
 
-### EMBEDDED SYSTEMS & ELECTRONICS
+**02 — EMBEDDED SYSTEMS**
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino and Raspberry Pi"/>
 
-### AI, COMPUTER VISION & DEVELOPMENT
+**03 — SOFTWARE & DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=opencv,git,github,vscode,linux&theme=dark" alt="OpenCV, Git, GitHub, VS Code and Linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development tools"/>
 
-### CIRCUIT DESIGN
+**04 — ELECTRONICS & AI**
 
-`KiCad` · `Proteus` · `PCB Design` · `Circuit Analysis`
+`KiCad` · `Proteus` · `OpenCV` · `PCB Design` · `Circuit Analysis`
 
 </div>
 
+*Technologies shown reflect my engineering interests and tools I use or explore. I am continuously improving my skills.*
+
 ---
 
-## `03 // PROJECTS FROM THE LAB`
+## `03 // EXPERIMENTS THAT ESCAPED THE LAB`
 
-*Ideas become interesting when they leave the screen.*
+> Warning: These projects involve the dangerous combination of curiosity, electronics, and code.
 
 <table>
 <tr>
@@ -83,36 +114,36 @@ My goal is to develop intelligent electronic devices that solve real problems, n
 
 ### 👁️ EGATE
 
-**Face Recognition + Knock-Based Unlocking**
+**A face. A knock. A decision.**
 
-A security system combining computer vision with a physical access-control mechanism.
+A security project combining facial recognition with knock-pattern verification and physical access control.
 
-- Face recognition with Python and OpenCV
-- Arduino-based hardware control
+- Face recognition using Python and OpenCV
+- Arduino-controlled hardware
 - Knock-pattern verification
 - Servo-based locking mechanism
 
-**Stack:** Python · OpenCV · Arduino · C++ · PySerial
+`PYTHON` `OPENCV` `ARDUINO` `C++`
 
-[→ Explore the repository](https://github.com/fikruyenialem-cpu/face-recognition-and-knocking-pattern-Unlocking-system)
+[ ACCESS PROJECT →](https://github.com/fikruyenialem/face-recognition-and-knocking-pattern-Unlocking-system)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔌 PC LINK BRIDGE
 
-**Hardware Communication & Power Management**
+**Two computers. A physical connection.**
 
-A hardware-software project exploring communication between computers through a USB bridge.
+A hardware-software project exploring USB communication, PCB design, and power management.
 
-- USB communication architecture
-- PCB and power-management design
-- Hardware telemetry concepts
-- Python desktop application
+- USB bridge architecture
+- Hardware power management
+- Communication and telemetry
+- Python desktop interface
 
-**Stack:** Python · USB · RP2040 · FT232HL · KiCad
+`PYTHON` `USB` `RP2040` `FT232HL` `KICAD`
 
-[→ Explore the repository](https://github.com/fikruyenialem-cpu/PC-Link-Bridge_PCB-and_software)
+[ ACCESS PROJECT →](https://github.com/fikruyenialem/PC-Link-Bridge_PCB-and_software)
 
 </td>
 </tr>
@@ -121,37 +152,37 @@ A hardware-software project exploring communication between computers through a 
 
 ### 📡 MATLAB SIGNAL LAB
 
-**Signals & Systems Experiments**
+**Making invisible signals understandable.**
 
-A collection of MATLAB programs for exploring the mathematics behind electrical and electronic systems.
+A collection of MATLAB experiments exploring fundamental signals and systems concepts.
 
 - Signal generation
 - Convolution
 - Signal energy
-- Even and odd signal decomposition
+- Even and odd decomposition
 - Step and ramp signals
 
-**Stack:** MATLAB · Signal Processing
+`MATLAB` `SIGNALS` `MATHEMATICS`
 
-[→ Explore the repository](https://github.com/fikruyenialem-cpu/MATrix-LABoratory)
+[ ACCESS PROJECT →](https://github.com/fikruyenialem/MATrix-LABoratory)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ ARDUINO EXPERIMENTS
 
-**Code That Meets the Physical World**
+**Instructions for a machine that listens to electricity.**
 
-A collection of functional Arduino programs developed for specific circuits and projects.
+Functional Arduino programs written for specific circuits and projects.
 
 - Microcontroller programming
 - Hardware interaction
 - Embedded C/C++
-- Practical electronics experiments
+- Circuit-specific experiments
 
-**Stack:** Arduino · C++
+`ARDUINO` `C++` `ELECTRONICS`
 
-[→ Explore the repository](https://github.com/fikruyenialem-cpu/arduino-codes)
+[ ACCESS PROJECT →](https://github.com/fikruyenialem/arduino-codes)
 
 </td>
 </tr>
@@ -159,31 +190,37 @@ A collection of functional Arduino programs developed for specific circuits and 
 
 <div align="center">
 
-**More experiments live in my repositories.**
-
-[![All Repositories](https://img.shields.io/badge/ACCESS-ALL_REPOSITORIES-00F5D4?style=for-the-badge&labelColor=050816)](https://github.com/fikruyenialem-cpu?tab=repositories)
+<a href="https://github.com/fikruyenialem?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN_THE_ARCHIVE-00F5D4?style=for-the-badge&logo=github&logoColor=030712&labelColor=030712" alt="Explore all repositories"/>
+</a>
 
 </div>
 
 ---
 
-## `04 // CURRENT EXPERIMENTS`
+## `04 // WHAT I AM TRYING TO UNLOCK`
+
+<div align="center">
+
+| EXPERIMENT | THE QUESTION |
+|---|---|
+| Embedded AI | Can intelligence operate closer to the physical world? |
+| Intelligent Devices | Can electronics sense, decide, and act? |
+| Computer Vision | Can software interpret what a machine sees? |
+| Signal Processing | What information is hiding inside a signal? |
+| Hardware + Software | What becomes possible when both work as one? |
+
+</div>
 
 ```text
-[01] EMBEDDED AI
-     Bringing machine learning closer to the hardware.
+CURRENT RESEARCH DIRECTION
 
-[02] INTELLIGENT ELECTRONIC DEVICES
-     Connecting sensors, computation, and physical actions.
+[ INPUT ] ──► [ SENSING ] ──► [ INTELLIGENCE ]
+                                      │
+                                      ▼
+[ REAL WORLD ] ◄── [ ACTION ] ◄── [ DECISION ]
 
-[03] COMPUTER VISION
-     Teaching software to interpret visual information.
-
-[04] SIGNAL PROCESSING
-     Understanding the mathematical language of signals.
-
-[05] HARDWARE × SOFTWARE INTEGRATION
-     Building complete systems, from circuits to applications.
+The goal: connect perception, computation, and action.
 ```
 
 ---
@@ -192,58 +229,93 @@ A collection of functional Arduino programs developed for specific circuits and 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fikruyenialem-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5D4&icon_color=7B2CBF&text_color=E6EDF3" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fikruyenialem&show_icons=true&theme=transparent&hide_border=true&title_color=00F5D4&icon_color=7B2CBF&text_color=C9D1D9&include_all_commits=true" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikruyenialem&layout=compact&theme=transparent&hide_border=true&title_color=00F5D4&text_color=C9D1D9&langs_count=8" width="49%" alt="Most-used languages"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikruyenialem-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=E6EDF3&langs_count=8" alt="Most used programming languages"/>
+<img src="https://streak-stats.demolab.com?user=fikruyenialem&theme=transparent&hide_border=true&ring=00F5D4&fire=7B2CBF&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=8B949E" width="85%" alt="Contribution streak"/>
 
-<img src="https://streak-stats.demolab.com?user=fikruyenialem-cpu&theme=tokyonight&hide_border=true&background=050816&ring=00F5D4&fire=7B2CBF&currStreakLabel=00F5D4" alt="GitHub contribution streak" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fikruyenialem&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub achievements"/>
 
 </div>
 
+*Statistics are supplied by external services and may take time to load. Language charts reflect repository contents, not necessarily overall proficiency.*
+
 ---
 
-## `06 // A MESSAGE FROM THE MACHINE`
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:17113B&height=120&section=header&text=THINK%20BEYOND%20THE%20CIRCUIT.&fontSize=20&fontColor=00F5D4&animation=twinkling" width="100%" alt="Think beyond the circuit"/>
-
-*Every circuit has a purpose.*  
-*Every algorithm has a possibility.*  
-*Every experiment teaches something.*
-
-**The lab is never really finished.**
+## `06 // THE STRANGE CORNER`
 
 <details>
-<summary>⚠️ UNAUTHORIZED ACCESS DETECTED — click to investigate</summary>
+<summary>🛸 You found a suspiciously ordinary button. Open it.</summary>
 
 ```text
-ACCESS GRANTED.
+SIGNAL RECEIVED FROM UNKNOWN SOURCE...
 
-You found the hidden layer.
+"Why are you building intelligent machines?"
 
-There is no final version.
-There is no perfect first attempt.
-There is only the next experiment.
+Because a circuit can do more than conduct electricity.
+Because code can do more than display text.
+Because a sensor can turn the physical world into data.
+Because data can become a decision.
+Because a decision can change what happens next.
 
-QUESTION: What if we gave intelligence
-          a body made of circuits?
+THE EXPERIMENT IS NOT OVER.
 
-ANSWER:   That is what we are here to build.
-
-SYSTEM STATUS: STILL LEARNING.
+TRANSMISSION ENDS.
 ```
-
-**End of transmission. The experiments continue.**
 
 </details>
 
+<details>
+<summary>🧪 Experimental log — classified by nobody</summary>
+
+**Log 001:** Curiosity detected.
+
+**Log 002:** Theory encountered reality.
+
+**Log 003:** Reality refused to cooperate.
+
+**Log 004:** Debugging commenced.
+
+**Log 005:** New understanding acquired.
+
+**Log 006:** Another experiment begins.
+
+</details>
+
+<details>
+<summary>🤖 Machine self-diagnostic</summary>
+
+```python
+system = {
+    "curiosity": "ACTIVE",
+    "learning": "IN_PROGRESS",
+    "experiments": "ONGOING",
+    "perfection": "NOT_REQUIRED",
+    "next_build": "UNKNOWN"
+}
+
+print("Keep experimenting.")
+```
+
+</details>
+
+---
+
+## `07 // END OF TRANSMISSION`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:7B2CBF,100:00F5D4&height=150&section=footer&animation=twinkling" width="100%" alt="End of transmission"/>
+
+**THE FUTURE IS NOT JUST SOFTWARE.**
+
+**IT IS SOFTWARE THAT CAN TOUCH THE WORLD.**
+
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=fikruyenialem-cpu&style=for-the-badge&color=00F5D4&label=LAB+VISITORS" alt="Profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=fikruyenialem&style=for-the-badge&color=00F5D4&label=LAB+VISITORS" alt="Profile visitor counter"/>
 
 <br/><br/>
 
-<sub>Designed in curiosity. Built through experimentation. Powered by engineering.</sub>
+<sub>Built with curiosity. Improved through experiments. Never finished.</sub>
 
 </div>
