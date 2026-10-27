@@ -78,7 +78,7 @@ The code is a playful representation of my mindset, not a working project or a c
 
 ---
 
-## `02 // THE TECHNOLOGY ORGANISM`
+## `02 THE TECHNOLOGY ORGANISM`
 
 <div align="center">
 
@@ -104,7 +104,7 @@ The code is a playful representation of my mindset, not a working project or a c
 
 ---
 
-## `03 // EXPERIMENTS THAT ESCAPED THE LAB`
+## `03 EXPERIMENTS THAT ESCAPED THE LAB`
 
 > Warning: These projects involve the dangerous combination of curiosity, electronics, and code.
 
@@ -223,7 +223,7 @@ CURRENT RESEARCH DIRECTION
 The goal: connect perception, computation, and action.
 ```
 
-## `0 // END OF TRANSMISSION`
+## `05 END OF TRANSMISSION`
 
 <div align="center">
 
