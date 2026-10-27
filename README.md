@@ -232,11 +232,6 @@ The goal: connect perception, computation, and action.
 <em><sub>The future is not just software.<br/>
 It is software that can touch the world.</sub></em>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=fikruyenialem&style=for-the-badge&color=00F5D4&label=LAB+VISITORS" alt="Profile visitor counter"/>
-
-<br/><br/>
 
 <sub>Built with curiosity. Improved through experiments. Never finished.</sub>
 
