@@ -40,7 +40,7 @@
 
 I am an engineering student exploring how intelligence can move beyond a computer screen and interact with the physical world.
 
-My interests lie in ** Embedded system, AI, intelligent electronic devices, computer vision, electronics**.
+My interests lie in ** Embedded system, AI, ML intelligent electronic devices, computer vision, electronics**.
 
 I enjoy understanding how things work, experimenting with new ideas, and building systems that connect code with real-world behavior.
 
@@ -84,7 +84,7 @@ fikru = Engineer()
 
 **01 — PROGRAMMING LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab&theme=dark" alt="Python, C++, and MATLAB"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab&theme=dark" alt="Python, C++, java and MATLAB"/>
 
 **02 — EMBEDDED SYSTEMS**
 
