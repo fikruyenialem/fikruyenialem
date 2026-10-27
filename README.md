@@ -92,7 +92,7 @@ The code is a playful representation of my mindset, not a working project or a c
 
 **03 — SOFTWARE & DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,theme=dark" alt="Development tools"/>
 
 **04 — ELECTRONICS & AI**
 
