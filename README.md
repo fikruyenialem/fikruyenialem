@@ -94,7 +94,7 @@ fikru = Engineer()
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,theme=dark" alt="Development tools"/>
 
-**04 — ELECTRONICS & AI**
+**04 — ELECTRONICS **
 
 `KiCad` · `Proteus` · `OpenCV` · `PCB Design` · `Circuit Analysis`
 
@@ -112,7 +112,7 @@ fikru = Engineer()
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ EGATE
+### EGATE
 
 **A face. A knock. A decision.**
 
