@@ -29,7 +29,7 @@
 ╠══════════════════════════════════════════════════╣
 ║  ENGINEER  : Fikru Yenialem                 ║
 ║  CORE      : Electrical and computer Engineering             ║
-║  INTERESTS : Embedded AI / Electronics / ML     ║
+║  INTERESTS : Embedded AI / Electronics / ML / CV     ║
 ║  INTERFACE : Python / C++ / MATLAB              ║
 ║  DIRECTIVE : Turn ideas into intelligent things ║
 ║                ║
