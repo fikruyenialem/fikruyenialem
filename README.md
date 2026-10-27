@@ -27,12 +27,12 @@
 ╔══════════════════════════════════════════════════╗
 ║              SYSTEM BOOT SEQUENCE               ║
 ╠══════════════════════════════════════════════════╣
-║  ENGINEER  : Fikru Yenialem Beza                ║
-║  CORE      : Electrical Engineering             ║
+║  ENGINEER  : Fikru Yenialem                 ║
+║  CORE      : Electrical and computer Engineering             ║
 ║  INTERESTS : Embedded AI / Electronics / ML     ║
 ║  INTERFACE : Python / C++ / MATLAB              ║
 ║  DIRECTIVE : Turn ideas into intelligent things ║
-║  STATUS    : ALWAYS EXPERIMENTING               ║
+║                ║
 ╚══════════════════════════════════════════════════╝
 ```
 
