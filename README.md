@@ -178,7 +178,7 @@ Functional Arduino programs written for specific circuits and projects.
 - Microcontroller programming
 - Hardware interaction
 - Embedded C/C++
-- Circuit-specific experiments
+- Circuit specific experiments
 
 `ARDUINO` `C++` `ELECTRONICS`
 
@@ -202,7 +202,7 @@ Functional Arduino programs written for specific circuits and projects.
 
 <div align="center">
 
-| EXPERIMENT | THE QUESTION |
+| EXPERIMENT | The question |
 |---|---|
 | Embedded AI | Can intelligence operate closer to the physical world? |
 | Intelligent Devices | Can electronics sense, decide, and act? |
@@ -213,7 +213,7 @@ Functional Arduino programs written for specific circuits and projects.
 </div>
 
 ```text
-CURRENT RESEARCH DIRECTION
+Current research direction
 
 [ INPUT ] ──► [ SENSING ] ──► [ INTELLIGENCE ]
                                       │
