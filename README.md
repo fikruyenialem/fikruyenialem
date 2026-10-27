@@ -36,7 +36,7 @@
 ╚══════════════════════════════════════════════════╝
 ```
 
-## `01 THE HUMAN BEHIND THE MACHINE`
+## `01 About me`
 
 I am an engineering student exploring how intelligence can move beyond a computer screen and interact with the physical world.
 
