@@ -40,7 +40,7 @@
 
 I am an engineering student exploring how intelligence can move beyond a computer screen and interact with the physical world.
 
-My interests lie in **Embedded system, AI, intelligent electronic devices, computer vision, electronics**.
+My interests lie in ** Embedded system, AI, intelligent electronic devices, computer vision, electronics**.
 
 I enjoy understanding how things work, experimenting with new ideas, and building systems that connect code with real-world behavior.
 
@@ -72,7 +72,7 @@ class Engineer:
 fikru = Engineer()
 ```
 
-The code is a playful representation of my mindset, not a working project or a claim of infinite ability.
+
 
 </details>
 
