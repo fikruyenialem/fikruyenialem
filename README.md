@@ -36,7 +36,7 @@
 ╚══════════════════════════════════════════════════╝
 ```
 
-## `01 // THE HUMAN BEHIND THE MACHINE`
+## `01 THE HUMAN BEHIND THE MACHINE`
 
 I am an engineering student exploring how intelligence can move beyond a computer screen and interact with the physical world.
 
@@ -198,7 +198,7 @@ Functional Arduino programs written for specific circuits and projects.
 
 ---
 
-## `04 // WHAT I AM TRYING TO UNLOCK`
+## `04 WHAT I AM TRYING TO UNLOCK`
 
 <div align="center">
 
