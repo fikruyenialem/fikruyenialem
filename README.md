@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:00F5D4,70:7B2CBF,100:030712&height=240&section=header&text=FIKRU%20YENIALEM&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=ENGINEERING%20THE%20UNSEEN&descSize=17&descAlignY=57" width="100%" alt="Fikru's digital lab"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:00F5D4,70:7B2CBF,100:030712&height=240&section=header&text=Fikru%20Yenialem&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=ENGINEERING%20THE%20UNSEEN&descSize=17&descAlignY=57" width="100%" alt="Fikru's digital lab"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=500&color=00F5D4&center=true&vCenter=true&width=650&lines=BOOTING+NEURAL+INTERFACE...;HARDWARE+MEETS+INTELLIGENCE.;CIRCUITS+ARE+MY+CANVAS.;CODE+IS+MY+INSTRUMENT.;REALITY+IS+THE+TEST+ENVIRONMENT.;SYSTEM+ONLINE.+WELCOME+TO+THE+LAB." alt="Animated terminal introduction"/>
 
