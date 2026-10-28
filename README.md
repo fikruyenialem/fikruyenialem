@@ -150,7 +150,9 @@ A hardware-software project exploring USB communication, PCB design, and power m
 <tr>
 <td width="50%" valign="top">
 
-### 📡 MATLAB SIGNAL LAB
+### 📡 MATLAB SIGNAL LAb
+
+
 
 **Making invisible signals understandable.**
 
