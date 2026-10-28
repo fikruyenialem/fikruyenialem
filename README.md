@@ -190,13 +190,7 @@ Functional Arduino programs written for specific circuits and projects.
 </tr>
 </table>
 
-<div align="center">
 
-<a href="https://github.com/fikruyenialem?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN_THE_ARCHIVE-00F5D4?style=for-the-badge&logo=github&logoColor=030712&labelColor=030712" alt="Explore all repositories"/>
-</a>
-
-</div>
 
 ---
 
