@@ -209,14 +209,7 @@ Functional Arduino programs written for specific circuits and projects.
 </div>
 
 ```text
-Current research direction
 
-[ INPUT ] ──► [ SENSING ] ──► [ INTELLIGENCE ]
-                                      │
-                                      ▼
-[ REAL WORLD ] ◄── [ ACTION ] ◄── [ DECISION ]
-
-The goal: connect perception, computation, and action.
 ```
 
 
