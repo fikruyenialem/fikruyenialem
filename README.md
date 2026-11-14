@@ -23,19 +23,6 @@
 
 ---
 
-```text
-╔══════════════════════════════════════════════════╗
-║              SYSTEM BOOT SEQUENCE               ║
-╠══════════════════════════════════════════════════╣
-║  ENGINEER  : Fikru Yenialem                 ║
-║  CORE      : Electrical and computer Engineering             ║
-║  INTERESTS : Embedded AI / Electronics / ML / CV     ║
-║  INTERFACE : Python / C++ / MATLAB              ║
-║  DIRECTIVE : Turn ideas into intelligent things ║
-║                ║
-╚══════════════════════════════════════════════════╝
-```
-
 ## `01 About me`
 
 I am an engineering student exploring how intelligence can move beyond a computer screen and interact with the physical world.
