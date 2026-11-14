@@ -103,11 +103,6 @@ fikru = Engineer()
 
 </div>
 
-```text
-
-```
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:7B2CBF,100:00F5D4&height=100&section=footer&animation=twinkling" width="100%" alt="End of transmission"/>
